@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+Educational project, original source article is here (https://dev.to/apertureless/creating-stunning-charts-with-vuejs-and-chartjs)
+
 ## Build Setup
 
 ``` bash
